@@ -16,4 +16,4 @@ install:
   - cd ../../../
 
 scripts:
-  -npm run test
+  -npm test
